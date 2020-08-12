@@ -1,0 +1,13 @@
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab5DataTypes\Lab5DataTypes\bin\Debug\netcoreapp3.1\Lab5DataTypes.exe
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab5DataTypes\Lab5DataTypes\bin\Debug\netcoreapp3.1\Lab5DataTypes.deps.json
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab5DataTypes\Lab5DataTypes\bin\Debug\netcoreapp3.1\Lab5DataTypes.runtimeconfig.json
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab5DataTypes\Lab5DataTypes\bin\Debug\netcoreapp3.1\Lab5DataTypes.runtimeconfig.dev.json
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab5DataTypes\Lab5DataTypes\bin\Debug\netcoreapp3.1\Lab5DataTypes.dll
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab5DataTypes\Lab5DataTypes\bin\Debug\netcoreapp3.1\Lab5DataTypes.pdb
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab5DataTypes\Lab5DataTypes\obj\Debug\netcoreapp3.1\Lab5DataTypes.csprojAssemblyReference.cache
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab5DataTypes\Lab5DataTypes\obj\Debug\netcoreapp3.1\Lab5DataTypes.AssemblyInfoInputs.cache
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab5DataTypes\Lab5DataTypes\obj\Debug\netcoreapp3.1\Lab5DataTypes.AssemblyInfo.cs
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab5DataTypes\Lab5DataTypes\obj\Debug\netcoreapp3.1\Lab5DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab5DataTypes\Lab5DataTypes\obj\Debug\netcoreapp3.1\Lab5DataTypes.dll
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab5DataTypes\Lab5DataTypes\obj\Debug\netcoreapp3.1\Lab5DataTypes.pdb
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab5DataTypes\Lab5DataTypes\obj\Debug\netcoreapp3.1\Lab5DataTypes.genruntimeconfig.cache

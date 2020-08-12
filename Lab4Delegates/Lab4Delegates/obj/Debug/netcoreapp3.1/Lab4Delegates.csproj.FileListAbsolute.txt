@@ -1,0 +1,12 @@
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab4Delegates\Lab4Delegates\obj\Debug\netcoreapp3.1\Lab4Delegates.AssemblyInfoInputs.cache
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab4Delegates\Lab4Delegates\obj\Debug\netcoreapp3.1\Lab4Delegates.AssemblyInfo.cs
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab4Delegates\Lab4Delegates\obj\Debug\netcoreapp3.1\Lab4Delegates.csproj.CoreCompileInputs.cache
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab4Delegates\Lab4Delegates\bin\Debug\netcoreapp3.1\Lab4Delegates.exe
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab4Delegates\Lab4Delegates\bin\Debug\netcoreapp3.1\Lab4Delegates.deps.json
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab4Delegates\Lab4Delegates\bin\Debug\netcoreapp3.1\Lab4Delegates.runtimeconfig.json
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab4Delegates\Lab4Delegates\bin\Debug\netcoreapp3.1\Lab4Delegates.runtimeconfig.dev.json
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab4Delegates\Lab4Delegates\bin\Debug\netcoreapp3.1\Lab4Delegates.dll
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab4Delegates\Lab4Delegates\bin\Debug\netcoreapp3.1\Lab4Delegates.pdb
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab4Delegates\Lab4Delegates\obj\Debug\netcoreapp3.1\Lab4Delegates.dll
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab4Delegates\Lab4Delegates\obj\Debug\netcoreapp3.1\Lab4Delegates.pdb
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab4Delegates\Lab4Delegates\obj\Debug\netcoreapp3.1\Lab4Delegates.genruntimeconfig.cache

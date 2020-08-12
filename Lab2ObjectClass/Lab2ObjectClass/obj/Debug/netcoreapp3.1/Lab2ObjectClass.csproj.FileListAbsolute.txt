@@ -1,0 +1,13 @@
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab2ObjectClass\Lab2ObjectClass\obj\Debug\netcoreapp3.1\Lab2ObjectClass.csprojAssemblyReference.cache
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab2ObjectClass\Lab2ObjectClass\obj\Debug\netcoreapp3.1\Lab2ObjectClass.AssemblyInfoInputs.cache
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab2ObjectClass\Lab2ObjectClass\obj\Debug\netcoreapp3.1\Lab2ObjectClass.AssemblyInfo.cs
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab2ObjectClass\Lab2ObjectClass\obj\Debug\netcoreapp3.1\Lab2ObjectClass.csproj.CoreCompileInputs.cache
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab2ObjectClass\Lab2ObjectClass\bin\Debug\netcoreapp3.1\Lab2ObjectClass.exe
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab2ObjectClass\Lab2ObjectClass\bin\Debug\netcoreapp3.1\Lab2ObjectClass.deps.json
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab2ObjectClass\Lab2ObjectClass\bin\Debug\netcoreapp3.1\Lab2ObjectClass.runtimeconfig.json
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab2ObjectClass\Lab2ObjectClass\bin\Debug\netcoreapp3.1\Lab2ObjectClass.runtimeconfig.dev.json
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab2ObjectClass\Lab2ObjectClass\bin\Debug\netcoreapp3.1\Lab2ObjectClass.dll
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab2ObjectClass\Lab2ObjectClass\bin\Debug\netcoreapp3.1\Lab2ObjectClass.pdb
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab2ObjectClass\Lab2ObjectClass\obj\Debug\netcoreapp3.1\Lab2ObjectClass.dll
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab2ObjectClass\Lab2ObjectClass\obj\Debug\netcoreapp3.1\Lab2ObjectClass.pdb
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab2ObjectClass\Lab2ObjectClass\obj\Debug\netcoreapp3.1\Lab2ObjectClass.genruntimeconfig.cache

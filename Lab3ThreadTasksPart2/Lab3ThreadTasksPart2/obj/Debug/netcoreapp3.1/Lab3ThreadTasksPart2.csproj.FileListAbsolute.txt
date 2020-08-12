@@ -1,0 +1,12 @@
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab3ThreadTasksPart2\Lab3ThreadTasksPart2\obj\Debug\netcoreapp3.1\Lab3ThreadTasksPart2.AssemblyInfoInputs.cache
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab3ThreadTasksPart2\Lab3ThreadTasksPart2\obj\Debug\netcoreapp3.1\Lab3ThreadTasksPart2.AssemblyInfo.cs
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab3ThreadTasksPart2\Lab3ThreadTasksPart2\obj\Debug\netcoreapp3.1\Lab3ThreadTasksPart2.csproj.CoreCompileInputs.cache
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab3ThreadTasksPart2\Lab3ThreadTasksPart2\bin\Debug\netcoreapp3.1\Lab3ThreadTasksPart2.exe
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab3ThreadTasksPart2\Lab3ThreadTasksPart2\bin\Debug\netcoreapp3.1\Lab3ThreadTasksPart2.deps.json
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab3ThreadTasksPart2\Lab3ThreadTasksPart2\bin\Debug\netcoreapp3.1\Lab3ThreadTasksPart2.runtimeconfig.json
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab3ThreadTasksPart2\Lab3ThreadTasksPart2\bin\Debug\netcoreapp3.1\Lab3ThreadTasksPart2.runtimeconfig.dev.json
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab3ThreadTasksPart2\Lab3ThreadTasksPart2\bin\Debug\netcoreapp3.1\Lab3ThreadTasksPart2.dll
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab3ThreadTasksPart2\Lab3ThreadTasksPart2\bin\Debug\netcoreapp3.1\Lab3ThreadTasksPart2.pdb
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab3ThreadTasksPart2\Lab3ThreadTasksPart2\obj\Debug\netcoreapp3.1\Lab3ThreadTasksPart2.dll
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab3ThreadTasksPart2\Lab3ThreadTasksPart2\obj\Debug\netcoreapp3.1\Lab3ThreadTasksPart2.pdb
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\Lab3ThreadTasksPart2\Lab3ThreadTasksPart2\obj\Debug\netcoreapp3.1\Lab3ThreadTasksPart2.genruntimeconfig.cache
