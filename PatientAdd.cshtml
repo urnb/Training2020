@@ -23,22 +23,36 @@
         Problem <input type="text" name="problem" value="" /> <br />
         <input type="submit" name="name" value="Add problems" />
     </form> <br />
+    <form method="post" action="/Patient/AddTreatment">
+        Medicine Name <input type="text" name="medicineName" value="" /> <br />
+        Medicine Freq <input type="text" name="numberofTimesinDay" value="" /> <br />
+
+        <input type="submit" name="name" value="Add treatment" />
+    </form> <br />
+    <form method="post" action="/Patient/AddFinal2">
+        <input type="submit" name="name" value="Add Info" />
+    </form> <br />
     <form method="post" action="/Patient/AddFinal">
-       
+
         <input type="submit" name="name" value="Add Final" />
     </form> <br />
-    @if(!(Model.currentPatient is null))
+    @if (!(Model.currentPatient is null))
     {
-    @Model.currentPatient.name<br />
-    @Model.currentPatient.address<br />
-    <ul>
-        @foreach(var item in Model.currentPatient.problems)
-        {
-            <li>
-                @item.problem
-            </li>
-        }
-    </ul>
+        @Model.currentPatient.name<br />
+        @Model.currentPatient.address<br />
+        <ul>
+            @foreach (var item in Model.currentPatient.problems)
+            {
+                <li>
+                    @item.problem
+                    @foreach (var n in item.treatments)
+                    {
+                    <li>@n.medicineName</li>
+                    <li>@n.numberofTimesinDay</li>
+                }
+                    </li>
+                }
+        </ul>
     }
     <table>
         <tr>
@@ -58,7 +72,13 @@
                     {
                         <tr>
                             <td>
+
                                 @prob.problem
+                                @foreach (var i in prob.treatments)
+                                {
+                                    @i.medicineName
+                                    @i.numberofTimesinDay
+                                }
                             </td>
                         </tr>
                     }

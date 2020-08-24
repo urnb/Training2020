@@ -50,7 +50,7 @@ namespace PatientLibrary
     public class PatientProblem
     {
         public string problem { get; set; }
-        List<Treatment> treatMents { get; set; }
+        public List<Treatment> treatments { get; set; }
     }
     public class Treatment
     {

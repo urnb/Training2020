@@ -9,6 +9,6 @@ namespace MVCwithWillis.Models
     public class PatientAddViewModel
     { public List<Patient> allPatients { get; set; }
         public Patient currentPatient { get; set; }
-       
+        public PatientProblem currentproblem { get; set; }
     }
 }

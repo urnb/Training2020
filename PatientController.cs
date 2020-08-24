@@ -54,23 +54,33 @@ namespace MVCwithWillis.Controllers
         [HttpPost]
         public IActionResult AddProblems(PatientProblem obj) // When button is clicked
         {
-            patientAddViewModel.currentPatient.problems.Add(obj);
+            if (patientAddViewModel.currentproblem is null)
+            {
+                patientAddViewModel.currentproblem = obj;
+            }
+           // patientAddViewModel.currentPatient.problems.Add(obj);
             return View("PatientAdd", patientAddViewModel);
         }
-        /*
-         public IActionResult AddTreatment(PatientAddViewModel obj)
+
+        
+         public IActionResult AddTreatment(Treatment obj)
          {
-            if (patientAddViewModel.currentPatient is null)
+            if(patientAddViewModel.currentproblem.treatments is null)
             {
-                
+                patientAddViewModel.currentproblem.treatments = new List<Treatment>();
+            
             }
-            else
-            {
-                patientAddViewModel.current
-            }
+            patientAddViewModel.currentproblem.treatments.Add(obj);
             return View("PatientAdd",patientAddViewModel);
          }
-        */
+       
+        
+        public IActionResult AddFinal2()
+        {   
+            patientAddViewModel.currentPatient.problems.Add(patientAddViewModel.currentproblem);
+            patientAddViewModel.currentproblem = null;
+            return View("PatientAdd", patientAddViewModel);
+        }
         public IActionResult AddFinal()
         {
             patientAddViewModel.allPatients.Add(patientAddViewModel.currentPatient);
