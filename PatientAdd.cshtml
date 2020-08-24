@@ -1,0 +1,71 @@
+﻿@model PatientAddViewModel
+@{
+    Layout = null;
+    var x = 0;
+    x++;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>PatientAdd</title>
+</head>
+
+<body>
+    <form method="post" action="/Patient/AddPatient">
+        Patient Name <input type="text" name="name" value="" /> <br />
+        Patient Address <input type="text" name="address" value="" /> <br />
+        <input type="submit" name="name" value="Add patient" />
+    </form> <br />
+    <form method="post" action="/Patient/AddProblems">
+        Problem <input type="text" name="problem" value="" /> <br />
+        <input type="submit" name="name" value="Add problems" />
+    </form> <br />
+    <form method="post" action="/Patient/AddFinal">
+       
+        <input type="submit" name="name" value="Add Final" />
+    </form> <br />
+    @if(!(Model.currentPatient is null))
+    {
+    @Model.currentPatient.name<br />
+    @Model.currentPatient.address<br />
+    <ul>
+        @foreach(var item in Model.currentPatient.problems)
+        {
+            <li>
+                @item.problem
+            </li>
+        }
+    </ul>
+    }
+    <table>
+        <tr>
+            <td>name</td>
+            <td>Address</td>
+        </tr>
+
+        @foreach (var pat in Model.allPatients)
+        {
+            <tr>
+                <td>@pat.name</td>
+                <td>@pat.address</td>
+            </tr>
+            <td>
+                <table>
+                    @foreach (var prob in pat.problems)
+                    {
+                        <tr>
+                            <td>
+                                @prob.problem
+                            </td>
+                        </tr>
+                    }
+                </table>
+            </td>
+        }
+
+    </table>
+</body>
+</html>
