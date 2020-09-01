@@ -1,0 +1,9 @@
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\ProjectLayer1\ProjectLayer2\bin\Debug\netcoreapp3.1\ProjectLayer2.deps.json
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\ProjectLayer1\ProjectLayer2\bin\Debug\netcoreapp3.1\ProjectLayer2.dll
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\ProjectLayer1\ProjectLayer2\bin\Debug\netcoreapp3.1\ProjectLayer2.pdb
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\ProjectLayer1\ProjectLayer2\obj\Debug\netcoreapp3.1\ProjectLayer2.csprojAssemblyReference.cache
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\ProjectLayer1\ProjectLayer2\obj\Debug\netcoreapp3.1\ProjectLayer2.AssemblyInfoInputs.cache
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\ProjectLayer1\ProjectLayer2\obj\Debug\netcoreapp3.1\ProjectLayer2.AssemblyInfo.cs
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\ProjectLayer1\ProjectLayer2\obj\Debug\netcoreapp3.1\ProjectLayer2.csproj.CoreCompileInputs.cache
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\ProjectLayer1\ProjectLayer2\obj\Debug\netcoreapp3.1\ProjectLayer2.dll
+C:\Users\urner.LAPTOP-S7P20UFB\source\repos\ProjectLayer1\ProjectLayer2\obj\Debug\netcoreapp3.1\ProjectLayer2.pdb
