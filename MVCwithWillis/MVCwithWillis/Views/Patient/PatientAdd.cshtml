@@ -1,0 +1,104 @@
+﻿@{
+    Layout = null;
+}
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/clientside/JavaScript.js"></script>
+<script>
+    
+    var patient = new Patient();
+    var problemobj = new PatientProblem();
+    function UpdatePatient() {
+        this.patient.name = $("#name").val();
+        this.patient.address = $("#address").val();
+    } 
+    function AddProblems() {
+        this.problemobj.problem = $("#problem").val();
+    }
+    function AddTreatments() {
+        var treatmentobj = new Treatment();
+        treatmentobj.medicine_name = $("#medicine_name").val();
+        treatmentobj.total_times = $("#totaltimes").val();
+        this.problemobj.treatment.push(treatmentobj);
+        $("#medicine_name").val("");
+        $("#totaltimes").val("");
+    }
+    function Submit() {
+        this.patient.problems.push(problemobj);
+        var check = this.patient;
+        $.ajax({
+            url: "/Api/PatientAPI",
+            type: "POST",
+            data: JSON.stringify(check),
+            dataType: "json",
+            contentType: "application/json; charset=utf-8",
+            success: function (data) {
+                //Displaying Table
+                $.each(data, function (i, item) {
+                    var row = $("<tr/>");
+                    $.each(item, function (key, value) {
+                        row.append($('<td/>').html(value));
+                    });
+                    $("#table").append(row);
+                });
+            },
+            error: function (xhr, ajaxOptions) {
+                //$("#error").append(xhr.responseText);
+                var jsonResponseText = $.parseJSON(xhr.responseText);
+                $.each(jsonResponseText, function (name, val) {
+                    if (name == "errors") {
+                        var name2 = $.parseJSON(JSON.stringify(val));
+                        $.each(name2, function (name3, val3) {
+                            if(name3 == "name")
+                                $("#n").append(val3);
+                            if (name3 == "address")
+                                $("#a").append(val3);
+                        });
+                    }
+                        //$("#error").append(name+" "+val);
+                });
+                
+            }
+        });
+        $("#name").val("");
+        $("#address").val("");
+        $("#problem").val("");
+
+        this.patient = new Patient();
+        this.problemobj = new PatientProblem();
+        this.patient.problems = [];
+        this.problemobj.treatment = [];
+    }
+</script>
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>PatientAdd</title>
+</head>
+
+<body>
+    <center>
+        <h1 style="color:red" id="error"></h1>
+    </center>
+    <p id="n"></p>
+    Patient Name <input type="text" onchange="UpdatePatient()" id="name" value="" /> <br />
+    <p id="a"></p>
+    Patient Address <input type="text" onchange="UpdatePatient()" id="address" value="" /> <br />
+    <br />
+    Problem <input type="text" id="problem" value="" /> <br />
+    <input type="button" name="name" value="Add problems" onclick="AddProblems()" />
+    <br />
+    Medicine Name <input type="text" id="medicine_name" value="" /> <br />
+    Total Days <input type="text" id="totaltimes" value="" /> <br />
+    <input type="button" name="name" value="Add Treatment" onclick="AddTreatments()" />
+    <br />
+    <input type="button" name="name" value="Add All" onclick="Submit()" />
+    <br />
+
+    <table align="center"
+           id="table" border="1">
+    </table>
+
+</body>
+</html>

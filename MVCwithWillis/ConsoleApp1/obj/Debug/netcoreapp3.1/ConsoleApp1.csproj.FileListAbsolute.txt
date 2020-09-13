@@ -1,0 +1,48 @@
+C:\Users\Dell\source\repos\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Dell\source\repos\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Dell\source\repos\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Dell\source\repos\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Dell\source\repos\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Dell\source\repos\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\PatientLibrary.dll
+C:\Users\Dell\source\repos\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\PatientLibrary.pdb
+C:\Users\Dell\source\repos\MVCwithWillis\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\MVCwithWillis\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\MVCwithWillis\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Dell\source\repos\MVCwithWillis\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+C:\Users\Dell\source\repos\MVCwithWillis\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Dell\source\repos\MVCwithWillis\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\TrainingAdmin\Desktop\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\TrainingAdmin\Desktop\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\TrainingAdmin\Desktop\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\TrainingAdmin\Desktop\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\TrainingAdmin\Desktop\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\TrainingAdmin\Desktop\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\TrainingAdmin\Desktop\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\PatientLibrary.dll
+C:\Users\TrainingAdmin\Desktop\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\PatientLibrary.pdb
+C:\Users\TrainingAdmin\Desktop\MVCwithWillis\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\TrainingAdmin\Desktop\MVCwithWillis\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\TrainingAdmin\Desktop\MVCwithWillis\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\TrainingAdmin\Desktop\MVCwithWillis\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\TrainingAdmin\Desktop\MVCwithWillis\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+C:\Users\TrainingAdmin\Desktop\MVCwithWillis\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\TrainingAdmin\Desktop\MVCwithWillis\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\TrainingAdmin\Desktop\MVCwithWillis\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\WTW Files\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\WTW Files\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\WTW Files\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\WTW Files\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\WTW Files\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\WTW Files\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\WTW Files\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\PatientLibrary.dll
+C:\WTW Files\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\PatientLibrary.pdb
+C:\WTW Files\MVCwithWillis\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\WTW Files\MVCwithWillis\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\WTW Files\MVCwithWillis\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\WTW Files\MVCwithWillis\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+C:\WTW Files\MVCwithWillis\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\WTW Files\MVCwithWillis\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\WTW Files\MVCwithWillis\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\WTW Files\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\WTW Files\MVCwithWillis\ConsoleApp1\bin\Debug\netcoreapp3.1\Moq.dll
+C:\WTW Files\MVCwithWillis\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
